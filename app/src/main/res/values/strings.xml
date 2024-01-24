@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">EightNetworkTask</string>
+    <string name="violin">Violin</string>
+    <string name="editor_choice">Editor\'s Choice</string>
+    <string name="the_violin">The Violin</string>
+    <string name="play">Play</string>
+    <string name="latest_releases">Latest Releases</string>
+
+    <string name="latest1_title">
+        Locatelli: il virtuoso, il poeta (Violin Concertos &amp; Concerti Gross)
+    </string>
+    <string name="latest1_sub">
+        Giovanni Antonini, Isabelle Faust, Il Giardino Armonico
+    </string>
+
+    <string name="latest2_title">
+        Two Romances for Solo Violin and String Orchestra - Single
+    </string>
+    <string name="latest2_sub">
+        Vilmos Olah, Budapest Symphony Orchestra
+    </string>
+
+    <string name="popular_artists">Popular Artists</string>
+    <string name="artist1_title">Mariko Senju</string>
+    <string name="artist2_title">Yehudi Menuhin</string>
+    <string name="artist3_title">Itzhak Perlman</string>
+
+    <string name="popular_works">Popular Works</string>
+    <string name="works1_header">Beethoven</string>
+    <string name="works1_artist">Violin Concerto in D Major</string>
+    <string name="works1_detail">Op. 61</string>
+    <string name="works1_works">659</string>
+
+    <string name="works2_header">Brahms</string>
+    <string name="works2_artist">Violin Concerto in D Major</string>
+    <string name="works2_detail">Op. 77</string>
+    <string name="works2_works">560</string>
+
+    <string name="works3_header">Felix Mendelssohn</string>
+    <string name="works3_artist">Violin Concerto in E Minor</string>
+    <string name="works3_detail">Op. 64</string>
+    <string name="works3_works">685</string>
+
+    <string name="works4_header">P. I. Tchaikovsky</string>
+    <string name="works4_artist">Violin Concerto in D Major</string>
+    <string name="works4_detail">Op. 35</string>
+    <string name="works4_works">707</string>
+
+    <string name="works5_header">W. A. Mozart</string>
+    <string name="works5_artist">Violin Concerto No. 5 in A Major</string>
+    <string name="works5_detail">K. 219</string>
+    <string name="works5_works">503</string>
+
+    <string name="see_works">See All Works</string>
+
+    <string name="about_violin">About the Violin</string>
+    <string name="about_violin_desc">
+        From the busker on the street corner to the concertmaster\'s chair in a great concert hall, the violin\'s presence as one of music\'s most important instruments is undeniable. It\'s a favorite across genres, styles, and cultures, and most composers have written for it in one form or another
+    </string>
+    <string name="all_works">See All Works</string>
+    <string name="other_string">Other String Instruments</string>
+    <string name="cello">Cello</string>
+    <string name="guitar">Guitar</string>
+    <string name="viola">Viola</string>
+    <string name="gamba">Viola de Gamba</string>
+</resources>
