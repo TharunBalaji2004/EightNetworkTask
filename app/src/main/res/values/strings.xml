@@ -55,8 +55,10 @@
 
     <string name="about_violin">About the Violin</string>
     <string name="about_violin_desc">
-        From the busker on the street corner to the concertmaster\'s chair in a great concert hall, the violin\'s presence as one of music\'s most important instruments is undeniable. It\'s a favorite across genres, styles, and cultures, and most composers have written for it in one form or another
+        From the busker on the street corner to the concertmaster\'s chair in a great concert hall, the violin\'s presence as one of music\'s most important instruments is undeniable. It\'s a favorite across genres, styles, and cultures, and most composers have written for it in one form or another. From the classic concertos written for legendary violin..
     </string>
+    <string name="more">MORE</string>
+
     <string name="all_works">See All Works</string>
     <string name="other_string">Other String Instruments</string>
     <string name="cello">Cello</string>
