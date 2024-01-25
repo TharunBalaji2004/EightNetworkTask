@@ -55,6 +55,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
+                        android:fontFamily="@font/sf_pro_regular"
                         android:textAllCaps="true"
                         android:textColor="@color/grey"
                         android:text="@string/editor_choice" />
@@ -62,6 +63,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
+                        android:fontFamily="@font/sf_pro_regular"
                         android:textSize="22sp"
                         android:textColor="@color/white"
                         android:text="@string/the_violin" />
@@ -72,9 +74,11 @@
                     style="@style/Widget.Material3.Button.Icon"
                     android:layout_alignParentBottom="true"
                     app:icon="@drawable/icon_play"
+
                     app:backgroundTint="#272727"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
+                    android:fontFamily="@font/sf_pro_regular"
                     android:textSize="18sp"
                     android:text="@string/play"
                     />
@@ -93,7 +97,7 @@
                 android:layout_height="wrap_content"
                 android:paddingHorizontal="20sp"
                 android:paddingBottom="15sp"
-                android:textStyle="bold"
+                android:fontFamily="@font/ny_bold"
                 android:textSize="22sp"
                 android:textColor="@color/white"
                 android:text="@string/latest_releases" />
@@ -121,6 +125,7 @@
 
                         <TextView
                             android:paddingVertical="3sp"
+                            android:fontFamily="@font/sf_pro_regular"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:maxLines="2"
@@ -131,6 +136,7 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
+                            android:fontFamily="@font/sf_pro_regular"
                             android:maxLines="1"
                             android:ellipsize="end"
                             android:textColor="@color/grey"
@@ -153,6 +159,7 @@
                             android:paddingVertical="3sp"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
+                            android:fontFamily="@font/sf_pro_regular"
                             android:maxLines="2"
                             android:ellipsize="end"
                             android:textColor="@color/white"
@@ -161,6 +168,7 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
+                            android:fontFamily="@font/sf_pro_regular"
                             android:maxLines="1"
                             android:ellipsize="end"
                             android:textColor="@color/grey"
@@ -186,6 +194,7 @@
                             android:maxLines="2"
                             android:ellipsize="end"
                             android:textColor="@color/white"
+                            android:fontFamily="@font/sf_pro_regular"
                             android:text="@string/latest1_title" />
 
                         <TextView
@@ -194,6 +203,7 @@
                             android:maxLines="1"
                             android:ellipsize="end"
                             android:textColor="@color/grey"
+                            android:fontFamily="@font/sf_pro_regular"
                             android:text="@string/latest1_sub" />
 
                     </LinearLayout>
@@ -213,6 +223,7 @@
                             android:paddingVertical="3sp"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
+                            android:fontFamily="@font/sf_pro_regular"
                             android:maxLines="2"
                             android:ellipsize="end"
                             android:textColor="@color/white"
@@ -221,6 +232,7 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
+                            android:fontFamily="@font/sf_pro_regular"
                             android:maxLines="1"
                             android:ellipsize="end"
                             android:textColor="@color/grey"
@@ -243,6 +255,7 @@
                             android:paddingVertical="3sp"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
+                            android:fontFamily="@font/sf_pro_regular"
                             android:maxLines="2"
                             android:ellipsize="end"
                             android:textColor="@color/white"
@@ -251,6 +264,7 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
+                            android:fontFamily="@font/sf_pro_regular"
                             android:maxLines="1"
                             android:ellipsize="end"
                             android:textColor="@color/grey"
@@ -273,6 +287,7 @@
                             android:paddingVertical="3sp"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
+                            android:fontFamily="@font/sf_pro_regular"
                             android:maxLines="2"
                             android:ellipsize="end"
                             android:textColor="@color/white"
@@ -281,6 +296,7 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
+                            android:fontFamily="@font/sf_pro_regular"
                             android:maxLines="1"
                             android:ellipsize="end"
                             android:textColor="@color/grey"
@@ -306,7 +322,8 @@
                 android:layout_height="wrap_content"
                 android:paddingHorizontal="20sp"
                 android:paddingBottom="15sp"
-                android:textStyle="bold"
+
+                android:fontFamily="@font/ny_bold"
                 android:textSize="22sp"
                 android:textColor="@color/white"
                 android:text="@string/popular_artists" />
@@ -336,6 +353,7 @@
                             android:paddingVertical="5sp"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
+                            android:fontFamily="@font/sf_pro_regular"
                             android:textAlignment="center"
                             android:textSize="16sp"
                             android:maxLines="1"
@@ -359,6 +377,7 @@
                             android:paddingVertical="5sp"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
+                            android:fontFamily="@font/sf_pro_regular"
                             android:textAlignment="center"
                             android:textSize="16sp"
                             android:maxLines="1"
@@ -382,6 +401,7 @@
                             android:paddingVertical="5sp"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
+                            android:fontFamily="@font/sf_pro_regular"
                             android:textAlignment="center"
                             android:textSize="16sp"
                             android:maxLines="1"
@@ -405,58 +425,13 @@
                             android:paddingVertical="5sp"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
+                            android:fontFamily="@font/sf_pro_regular"
                             android:textAlignment="center"
                             android:textSize="16sp"
                             android:maxLines="1"
                             android:ellipsize="end"
                             android:textColor="@color/white"
                             android:text="@string/artist1_title" />
-
-                    </LinearLayout>
-                    <LinearLayout
-                        android:layout_width="130sp"
-                        android:layout_height="wrap_content"
-                        android:layout_marginEnd="15dp"
-                        android:orientation="vertical">
-
-                        <ImageView
-                            android:layout_width="130sp"
-                            android:layout_height="130sp"
-                            android:src="@drawable/artist2" />
-
-                        <TextView
-                            android:paddingVertical="5sp"
-                            android:layout_width="match_parent"
-                            android:layout_height="wrap_content"
-                            android:textAlignment="center"
-                            android:textSize="16sp"
-                            android:maxLines="1"
-                            android:ellipsize="end"
-                            android:textColor="@color/white"
-                            android:text="@string/artist2_title" />
-
-                    </LinearLayout>
-                    <LinearLayout
-                        android:layout_width="130sp"
-                        android:layout_height="wrap_content"
-                        android:layout_marginEnd="15dp"
-                        android:orientation="vertical">
-
-                        <ImageView
-                            android:layout_width="130sp"
-                            android:layout_height="130sp"
-                            android:src="@drawable/artist3" />
-
-                        <TextView
-                            android:paddingVertical="5sp"
-                            android:layout_width="match_parent"
-                            android:layout_height="wrap_content"
-                            android:textAlignment="center"
-                            android:textSize="16sp"
-                            android:maxLines="1"
-                            android:ellipsize="end"
-                            android:textColor="@color/white"
-                            android:text="@string/artist3_title" />
 
                     </LinearLayout>
 
@@ -479,19 +454,19 @@
                 android:paddingBottom="10sp"
                 android:text="@string/popular_works"
                 android:textColor="@color/white"
+                android:fontFamily="@font/ny_bold"
                 android:textSize="22sp"
                 android:textStyle="bold" />
 
             <LinearLayout
                 android:layout_width="match_parent"
-                android:layout_height="70sp"
+                android:layout_height="60sp"
                 android:layout_marginVertical="8sp"
                 android:baselineAligned="false">
 
                 <ImageView
-                    android:layout_width="70sp"
+                    android:layout_width="60sp"
                     android:layout_height="wrap_content"
-                    android:contentDescription="@string/the_violin"
                     android:scaleType="fitXY"
                     android:src="@drawable/work1" />
 
@@ -511,6 +486,7 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
+                            android:fontFamily="@font/sf_pro_regular"
                             android:text="@string/works1_header"
                             android:textAllCaps="true"
                             android:textColor="@color/grey" />
@@ -518,6 +494,7 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
+                            android:fontFamily="@font/sf_pro_regular"
                             android:text="@string/works1_artist"
                             android:textColor="@color/white"
                             android:textSize="16sp" />
@@ -525,6 +502,7 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
+                            android:fontFamily="@font/sf_pro_regular"
                             android:text="@string/works1_detail"
                             android:textColor="@color/grey" />
 
@@ -539,6 +517,7 @@
                         <TextView
                             android:paddingEnd="8sp"
                             android:textSize="16sp"
+                            android:fontFamily="@font/sf_pro_regular"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="@string/works1_works" />
@@ -556,14 +535,13 @@
             </LinearLayout>
             <LinearLayout
                 android:layout_width="match_parent"
-                android:layout_height="70sp"
-                android:layout_paddingVertical="8sp"
+                android:layout_height="60sp"
+                android:layout_marginVertical="8sp"
                 android:baselineAligned="false">
 
                 <ImageView
-                    android:layout_width="70sp"
+                    android:layout_width="60sp"
                     android:layout_height="wrap_content"
-                    android:contentDescription="@string/the_violin"
                     android:scaleType="fitXY"
                     android:src="@drawable/work2" />
 
@@ -571,6 +549,7 @@
                 <RelativeLayout
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
+
                     android:orientation="vertical"
                     android:paddingStart="12sp">
 
@@ -584,6 +563,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="@string/works2_header"
+                            android:fontFamily="@font/sf_pro_regular"
                             android:textAllCaps="true"
                             android:textColor="@color/grey" />
 
@@ -591,12 +571,14 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="@string/works2_artist"
+                            android:fontFamily="@font/sf_pro_regular"
                             android:textColor="@color/white"
                             android:textSize="16sp" />
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
+                            android:fontFamily="@font/sf_pro_regular"
                             android:text="@string/works2_detail"
                             android:textColor="@color/grey" />
 
@@ -612,6 +594,7 @@
                             android:paddingEnd="8sp"
                             android:textSize="16sp"
                             android:layout_width="wrap_content"
+                            android:fontFamily="@font/sf_pro_regular"
                             android:layout_height="wrap_content"
                             android:text="@string/works2_works" />
 
@@ -628,14 +611,13 @@
             </LinearLayout>
             <LinearLayout
                 android:layout_width="match_parent"
-                android:layout_height="70sp"
+                android:layout_height="60sp"
                 android:layout_marginVertical="8sp"
                 android:baselineAligned="false">
 
                 <ImageView
-                    android:layout_width="70sp"
+                    android:layout_width="60sp"
                     android:layout_height="wrap_content"
-                    android:contentDescription="@string/the_violin"
                     android:scaleType="fitXY"
                     android:src="@drawable/work3" />
 
@@ -656,6 +638,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="@string/works3_header"
+                            android:fontFamily="@font/sf_pro_regular"
                             android:textAllCaps="true"
                             android:textColor="@color/grey" />
 
@@ -663,12 +646,14 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="@string/works3_artist"
+                            android:fontFamily="@font/sf_pro_regular"
                             android:textColor="@color/white"
                             android:textSize="16sp" />
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
+                            android:fontFamily="@font/sf_pro_regular"
                             android:text="@string/works3_detail"
                             android:textColor="@color/grey" />
 
@@ -683,6 +668,7 @@
                         <TextView
                             android:paddingEnd="8sp"
                             android:textSize="16sp"
+                            android:fontFamily="@font/sf_pro_regular"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="@string/works3_works" />
@@ -700,14 +686,13 @@
             </LinearLayout>
             <LinearLayout
                 android:layout_width="match_parent"
-                android:layout_height="70sp"
+                android:layout_height="60sp"
                 android:layout_marginVertical="8sp"
                 android:baselineAligned="false">
 
                 <ImageView
-                    android:layout_width="70sp"
+                    android:layout_width="60sp"
                     android:layout_height="wrap_content"
-                    android:contentDescription="@string/the_violin"
                     android:scaleType="fitXY"
                     android:src="@drawable/work4" />
 
@@ -728,6 +713,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="@string/works4_header"
+                            android:fontFamily="@font/sf_pro_regular"
                             android:textAllCaps="true"
                             android:textColor="@color/grey" />
 
@@ -736,11 +722,13 @@
                             android:layout_height="wrap_content"
                             android:text="@string/works4_artist"
                             android:textColor="@color/white"
+                            android:fontFamily="@font/sf_pro_regular"
                             android:textSize="16sp" />
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
+                            android:fontFamily="@font/sf_pro_regular"
                             android:text="@string/works4_detail"
                             android:textColor="@color/grey" />
 
@@ -755,6 +743,7 @@
                         <TextView
                             android:paddingEnd="8sp"
                             android:textSize="16sp"
+                            android:fontFamily="@font/sf_pro_regular"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="@string/works4_works" />
@@ -772,14 +761,13 @@
             </LinearLayout>
             <LinearLayout
                 android:layout_width="match_parent"
-                android:layout_height="70sp"
+                android:layout_height="60sp"
                 android:layout_marginVertical="8sp"
                 android:baselineAligned="false">
 
                 <ImageView
-                    android:layout_width="70sp"
+                    android:layout_width="60sp"
                     android:layout_height="wrap_content"
-                    android:contentDescription="@string/the_violin"
                     android:scaleType="fitXY"
                     android:src="@drawable/work5" />
 
@@ -801,12 +789,14 @@
                             android:layout_height="wrap_content"
                             android:text="@string/works5_header"
                             android:textAllCaps="true"
+                            android:fontFamily="@font/sf_pro_regular"
                             android:textColor="@color/grey" />
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="@string/works5_artist"
+                            android:fontFamily="@font/sf_pro_regular"
                             android:textColor="@color/white"
                             android:textSize="16sp" />
 
@@ -814,6 +804,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="@string/works5_detail"
+                            android:fontFamily="@font/sf_pro_regular"
                             android:textColor="@color/grey" />
 
                     </LinearLayout>
@@ -859,6 +850,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="@string/see_works"
+                        android:fontFamily="@font/sf_pro_regular"
                         android:textColor="@color/white"
                         android:textSize="16sp" />
 
@@ -893,8 +885,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:paddingBottom="10sp"
-                android:textStyle="bold"
                 android:textSize="22sp"
+                android:fontFamily="@font/ny_bold"
                 android:textColor="@color/white"
                 android:text="@string/about_violin" />
 
@@ -902,6 +894,7 @@
                 android:layout_below="@id/tv_header"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:fontFamily="@font/sf_pro_regular"
                 android:textColor="@color/white"
                 android:textSize="16sp"
                 android:text="@string/about_violin_desc" />
@@ -930,7 +923,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:textStyle="bold"
+                android:fontFamily="@font/ny_bold"
                 android:textSize="22sp"
                 android:textColor="@color/white"
                 android:text="@string/other_string" />
