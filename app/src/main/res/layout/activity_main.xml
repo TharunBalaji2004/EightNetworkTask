@@ -557,7 +557,7 @@
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="70sp"
-                android:layout_marginVertical="8sp"
+                android:layout_paddingVertical="8sp"
                 android:baselineAligned="false">
 
                 <ImageView
@@ -892,6 +892,7 @@
                 android:id="@+id/tv_header"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:paddingBottom="10sp"
                 android:textStyle="bold"
                 android:textSize="22sp"
                 android:textColor="@color/white"
@@ -899,7 +900,6 @@
 
             <TextView
                 android:layout_below="@id/tv_header"
-                android:paddingTop="10sp"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:textColor="@color/white"
